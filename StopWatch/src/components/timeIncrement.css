@@ -1,0 +1,21 @@
+.timeDisplayContainer{
+    border: 5px solid #FFFFFF;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.timeInSecond{
+    color: #FFFFFF;
+    font-size: 40px;
+    text-align: right;
+}
+
+.timeInMillisecond{
+    color: #FFFFFF;
+    font-size: 20px;
+    text-align: right;
+}
